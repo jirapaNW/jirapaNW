@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jirapaNW
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in android Development and ML.
+- 🌱 I’m currently learning Kotlin
+- 💞️ I’m looking to collaborate on Metaverse
 - 📫 How to reach me > Email : jirapa.nwjtd@gmail.com
 
 <!---
